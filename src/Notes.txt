@@ -1,0 +1,11 @@
+first we have to get the API key from The Moveie DataBase(TMDB). 
+here is my API key for the TMDB 
+67d9e7440f750fe884be43155ca69984
+
+
+
+
+queions 
+usually the name of the file/module is also the name of the funcion and that also have been we export. any reason here? why not const axios and export axios?
+ 
+ when we create the modules we have been making as the first letter to be cap? is that just the recommendation? 
